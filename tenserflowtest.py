@@ -1,0 +1,12 @@
+import tensorflow as tf
+x_tf = tf.Variable(25, dtype=tf.int16)
+print(x_tf)
+print(x_tf.shape)
+y_tf = tf.Variable(3, dtype=tf.int16)
+print(x_tf + y_tf)
+tf_sum = tf.add(x_tf, y_tf)
+print(tf_sum)
+print(tf_sum.numpy())
+print(type(tf_sum.numpy()))
+tf_float = tf.Variable(25, dtype=tf.float16)
+print(tf_float)

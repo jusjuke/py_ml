@@ -1,0 +1,31 @@
+mk1 = 1 kj
+mk2 = 4kj
+mk1 = from april 1
+mk2 = from may 1
+
+
+1 같아지는 날짜 
+
+e = 1t
+e = 4(t - 30)
+1t = 4(t - 30)
+t = 4t - 120
+3t = 120
+40 day
+5월 10일
+
+2. 같아지는 KJ
+
+40 * e = 
+
+py -m pip install pytorch torchvision torchaudio cpuonly
+
+python.exe -m venv studysession
+pip3 install --upgrade pip
+
+Pythoon: select interpreter
+
+노름 (norm) : [명사] [수학 ] 선형 대수학 및 함수 해석학 따위의 여러 분야에서 벡터 공간의 벡터들에 대해 길이 또는 크기를 나타내는 함수를 이르는 말. ⇒규범 표기는 미확정이다.
+L2 Norm (거리 from origin ) :     ∥x∥2 = √∑ix²i  => x2을 i 까지 합해서 루트처리한 값.
+삼각함수
+https://codingcoding.tistory.com/719
